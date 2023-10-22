@@ -172,7 +172,7 @@ function App() {
   return (
     <>
       <div className={`flex flex-col justify-center items-center bg-[#2362C0] overflow-x-hidden`}>
-        <div className="shadow-md w-screen flex justify-center items-center fixed top-0 left-0 right-0 z-[100] bg-[#2362C0]"><img src={h} className="w-52"/></div>
+        <div className="shadow-md w-screen flex justify-center items-center fixed top-0 left-0 right-0 z-[100] bg-[#2362C0] text-3xl text-[#D631B9] font-bold p-4 stroke-white ">HyperTrack</div> 
         <img src={pilot} className="absolute z-0 w-48 m-2 mb-[100%] mr-[85%] animate-bounce " />
         <img src={ship} className="absolute z-0 w-[12rem] m-2 ml-[65%] animate-bounce " />
         <img src={ship2} className="absolute z-0 w-[20rem] m-2 mt-[90%] mr-[85%] animate-bounce " />
