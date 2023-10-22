@@ -97,10 +97,10 @@ function App() {
 
   const dataset = async () => {
     try {
-      const res = await axios.get("http://localhost:3002/chainPerformance");
-      const actv = await axios.get("http://localhost:3002/totalInterChainMessagesPerChain");
-      const dis = await axios.get("http://localhost:3002/dispatch");
-      const user = await axios.get("http://localhost:3002/uniqueUsers");
+      const res = await axios.get("https://eth-online-eight.vercel.app/chainPerformance");
+      const actv = await axios.get("https://eth-online-eight.vercel.app/totalInterChainMessagesPerChain");
+      const dis = await axios.get("https://eth-online-eight.vercel.app/dispatch");
+      const user = await axios.get("https://eth-online-eight.vercel.app/uniqueUsers");
       setDispatch(dis.data.dispatches.slice(0, 3));
       setUser(user);
       setActiveUser(actv);
