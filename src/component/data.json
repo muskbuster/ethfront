@@ -1,0 +1,339 @@
+{
+    "ethereum": [
+        {
+            "from": "ethereum",
+            "to": "optimism",
+            "flow": 192
+        },
+        {
+            "from": "ethereum",
+            "to": "gnosis",
+            "flow": 156
+        },
+        {
+            "from": "ethereum",
+            "to": "moonbeam",
+            "flow": 200
+        },
+        {
+            "from": "ethereum",
+            "to": "polygon",
+            "flow": 221
+        },
+        {
+            "from": "ethereum",
+            "to": "arbitrum",
+            "flow": 192
+        },
+        {
+            "from": "ethereum",
+            "to": "celo",
+            "flow": 195
+        },
+        {
+            "from": "ethereum",
+            "to": "avalanche",
+            "flow": 200
+        },
+        {
+            "from": "ethereum",
+            "to": "binance",
+            "flow": 198
+        }
+    ],
+    "optimism": [
+        {
+            "from": "optimism",
+            "to": "ethereum",
+            "flow": 193
+        },
+        {
+            "from": "optimism",
+            "to": "gnosis",
+            "flow": 541
+        },
+        {
+            "from": "optimism",
+            "to": "moonbeam",
+            "flow": 707
+        },
+        {
+            "from": "optimism",
+            "to": "polygon",
+            "flow": 714
+        },
+        {
+            "from": "optimism",
+            "to": "arbitrum",
+            "flow": 716
+        },
+        {
+            "from": "optimism",
+            "to": "celo",
+            "flow": 708
+        },
+        {
+            "from": "optimism",
+            "to": "avalanche",
+            "flow": 714
+        },
+        {
+            "from": "optimism",
+            "to": "binance",
+            "flow": 713
+        }
+    ],
+    "binance": [
+        {
+            "from": "binance",
+            "to": "ethereum",
+            "flow": 202
+        },
+        {
+            "from": "binance",
+            "to": "optimism",
+            "flow": 713
+        },
+        {
+            "from": "binance",
+            "to": "gnosis",
+            "flow": 538
+        },
+        {
+            "from": "binance",
+            "to": "moonbeam",
+            "flow": 711
+        },
+        {
+            "from": "binance",
+            "to": "polygon",
+            "flow": 714
+        },
+        {
+            "from": "binance",
+            "to": "arbitrum",
+            "flow": 708
+        },
+        {
+            "from": "binance",
+            "to": "celo",
+            "flow": 712
+        },
+        {
+            "from": "binance",
+            "to": "avalanche",
+            "flow": 715
+        }
+    ],
+    "gnosis": [
+        {
+            "from": "gnosis",
+            "to": "ethereum",
+            "flow": 155
+        },
+        {
+            "from": "gnosis",
+            "to": "optimism",
+            "flow": 529
+        },
+        {
+            "from": "gnosis",
+            "to": "moonbeam",
+            "flow": 537
+        },
+        {
+            "from": "gnosis",
+            "to": "polygon",
+            "flow": 531
+        },
+        {
+            "from": "gnosis",
+            "to": "arbitrum",
+            "flow": 532
+        },
+        {
+            "from": "gnosis",
+            "to": "celo",
+            "flow": 544
+        },
+        {
+            "from": "gnosis",
+            "to": "avalanche",
+            "flow": 535
+        },
+        {
+            "from": "gnosis",
+            "to": "binance",
+            "flow": 539
+        }
+    ],
+    "moonbeam": [
+        {
+            "from": "moonbeam",
+            "to": "ethereum",
+            "flow": 188
+        },
+        {
+            "from": "moonbeam",
+            "to": "optimism",
+            "flow": 698
+        },
+        {
+            "from": "moonbeam",
+            "to": "gnosis",
+            "flow": 534
+        },
+        {
+            "from": "moonbeam",
+            "to": "polygon",
+            "flow": 708
+        },
+        {
+            "from": "moonbeam",
+            "to": "arbitrum",
+            "flow": 696
+        },
+        {
+            "from": "moonbeam",
+            "to": "celo",
+            "flow": 700
+        },
+        {
+            "from": "moonbeam",
+            "to": "avalanche",
+            "flow": 706
+        },
+        {
+            "from": "moonbeam",
+            "to": "binance",
+            "flow": 712
+        }
+    ],
+    "arbitrum": [
+        {
+            "from": "arbitrum",
+            "to": "ethereum",
+            "flow": 200
+        },
+        {
+            "from": "arbitrum",
+            "to": "optimism",
+            "flow": 714
+        },
+        {
+            "from": "arbitrum",
+            "to": "gnosis",
+            "flow": 532
+        },
+        {
+            "from": "arbitrum",
+            "to": "moonbeam",
+            "flow": 707
+        },
+        {
+            "from": "arbitrum",
+            "to": "polygon",
+            "flow": 717
+        },
+        {
+            "from": "arbitrum",
+            "to": "celo",
+            "flow": 715
+        },
+        {
+            "from": "arbitrum",
+            "to": "avalanche",
+            "flow": 715
+        },
+        {
+            "from": "arbitrum",
+            "to": "binance",
+            "flow": 713
+        }
+    ],
+    "celo": [
+        {
+            "from": "celo",
+            "to": "ethereum",
+            "flow": 199
+        },
+        {
+            "from": "celo",
+            "to": "optimism",
+            "flow": 707
+        },
+        {
+            "from": "celo",
+            "to": "gnosis",
+            "flow": 538
+        },
+        {
+            "from": "celo",
+            "to": "moonbeam",
+            "flow": 704
+        },
+        {
+            "from": "celo",
+            "to": "polygon",
+            "flow": 723
+        },
+        {
+            "from": "celo",
+            "to": "arbitrum",
+            "flow": 711
+        },
+        {
+            "from": "celo",
+            "to": "avalanche",
+            "flow": 712
+        },
+        {
+            "from": "celo",
+            "to": "binance",
+            "flow": 714
+        }
+    ],
+    "avalanche": [
+        {
+            "from": "avalanche",
+            "to": "ethereum",
+            "flow": 194
+        },
+        {
+            "from": "avalanche",
+            "to": "optimism",
+            "flow": 707
+        },
+        {
+            "from": "avalanche",
+            "to": "gnosis",
+            "flow": 524
+        },
+        {
+            "from": "avalanche",
+            "to": "moonbeam",
+            "flow": 698
+        },
+        {
+            "from": "avalanche",
+            "to": "polygon",
+            "flow": 709
+        },
+        {
+            "from": "avalanche",
+            "to": "arbitrum",
+            "flow": 705
+        },
+        {
+            "from": "avalanche",
+            "to": "celo",
+            "flow": 697
+        },
+        {
+            "from": "avalanche",
+            "to": "binance",
+            "flow": 699
+        }
+    ]
+}
+
